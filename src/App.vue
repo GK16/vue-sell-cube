@@ -5,8 +5,8 @@
 </template>
 
 <script>
-import VHeader from './components/v-header/v-header.vue'
 import { getSeller } from 'api'
+import VHeader from './components/v-header/v-header.vue'
 
 export default {
   name: 'App',
